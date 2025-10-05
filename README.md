@@ -4,5 +4,5 @@ _________________________________
 
 👇 Выберите ваш курс
 
-1. ☕ [Требования к дипломному проекту на курсе Java Base](java/README.md) 
-2. 🐍 [Требования к дипломному проекту на курсе Python Base](python/README.md) 
+1. ☕ [Java Base](https://github.com/qa-guru/diploma-requirements/wiki/Home-Java-Base) 
+2. 🐍 [Python Base](https://github.com/qa-guru/diploma-requirements/wiki/Home-Python-Base) 
